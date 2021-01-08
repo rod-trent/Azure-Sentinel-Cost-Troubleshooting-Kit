@@ -4,6 +4,6 @@ A good method to help identify and eliminate costs is to determine which specifi
 <h2>Pricing Calculators</h2>
 
 The general Azure pricing calculator. Filter by Azure Sentinel.
-https://azure.microsoft.com/en-us/pricing/calculator/
+<a href="https://azure.microsoft.com/en-us/pricing/calculator/" target="_blank">https://azure.microsoft.com/en-us/pricing/calculator/</a>
 
 
