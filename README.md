@@ -9,7 +9,7 @@ This is an evolving resource with the intent to be community sourced and develop
 
 <a href="https://github.com/rod-trent/Azure-Sentinel-Cost-Troubleshooting-Kit/blob/main/Docs/Managing%20Costs%20for%20Azure%20Monitor%20Logs.md">Managing Costs for Azure Monitor Logs</url>
 
-<a href="https://github.com/rod-trent/Azure-Sentinel-Cost-Troubleshooting-Kit/blob/main/Docs/Notes-and-Resources.md">Pricing Calculators>/url>
+<a href="https://github.com/rod-trent/Azure-Sentinel-Cost-Troubleshooting-Kit/blob/main/Docs/Notes-and-Resources.md">Pricing Calculators</url>
   
 <a href="https://github.com/rod-trent/Azure-Sentinel-Cost-Troubleshooting-Kit/tree/main/KQL-Queries">KQL Queries</url>
 
