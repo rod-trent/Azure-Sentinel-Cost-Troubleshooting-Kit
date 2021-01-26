@@ -14,7 +14,3 @@ This is an evolving resource with the intent to be community sourced and develop
 <a href="https://github.com/rod-trent/Azure-Sentinel-Cost-Troubleshooting-Kit/tree/main/KQL-Queries">KQL Queries</url>
 
 <a href="https://github.com/rod-trent/Azure-Sentinel-Cost-Troubleshooting-Kit/blob/main/Workbooks/External-Resource-List.md">Clive's Workspace Workbook</url>
-
-
-
-More...
