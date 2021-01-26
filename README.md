@@ -5,11 +5,15 @@ The intent of this "kit" is not a best practices doc, but instead a growing coll
 
 This is an evolving resource with the intent to be community sourced and developed.
 
-Current Kit Resources:
-
-<a href="url">link text</a>
+<b>Current Kit Resources:</b>
 
 <a href="https://github.com/rod-trent/Azure-Sentinel-Cost-Troubleshooting-Kit/blob/main/Docs/Managing%20Costs%20for%20Azure%20Monitor%20Logs.md">Managing Costs for Azure Monitor Logs</url>
+
+<a href="https://github.com/rod-trent/Azure-Sentinel-Cost-Troubleshooting-Kit/blob/main/Docs/Notes-and-Resources.md">Pricing Calculators>/url>
+  
+<a href="https://github.com/rod-trent/Azure-Sentinel-Cost-Troubleshooting-Kit/tree/main/KQL-Queries">KQL Queries</url>
+
+<a href="https://github.com/rod-trent/Azure-Sentinel-Cost-Troubleshooting-Kit/blob/main/Workbooks/External-Resource-List.md">Clive's Workspace Workbook</url>
 
 
 
