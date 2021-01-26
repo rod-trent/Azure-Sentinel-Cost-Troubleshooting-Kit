@@ -5,4 +5,12 @@ The intent of this "kit" is not a best practices doc, but instead a growing coll
 
 This is an evolving resource with the intent to be community sourced and developed.
 
+Current Kit Resources:
+
+<a href="url">link text</a>
+
+<a href="https://github.com/rod-trent/Azure-Sentinel-Cost-Troubleshooting-Kit/blob/main/Docs/Managing%20Costs%20for%20Azure%20Monitor%20Logs.md">Managing Costs for Azure Monitor Logs</url>
+
+
+
 More...
