@@ -17,3 +17,7 @@ https://docs.microsoft.com/en-us/azure/cost-management-billing/understand/review
 <b>KQL Queries to build pricing awareness</b>
 https://docs.microsoft.com/en-us/azure/azure-monitor/platform/manage-cost-storage#getting-nodes-as-billed-in-the-per-node-pricing-tier 
 
+<b>How to create an alert when data collection is high</b>
+https://docs.microsoft.com/en-us/azure/azure-monitor/platform/manage-cost-storage#create-an-alert-when-data-collection-is-high 
+
+
