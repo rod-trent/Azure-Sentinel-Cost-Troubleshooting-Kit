@@ -5,5 +5,15 @@ The following resources are available for getting a better understanding of cost
 <b>How to view Log Analytics usage on your Azure bill</b>
 https://docs.microsoft.com/en-us/azure/azure-monitor/platform/manage-cost-storage#viewing-log-analytics-usage-on-your-azure-bill 
 
-<b> Queries to build pricing awareness</b>
+<b>How to explore and analyze costs with cost analysis</b>
+https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/quick-acm-cost-analysis?toc=%2Fazure%2Fbilling%2FTOC.json&tabs=azure-portal 
+
+<b>How to Download Usage</b> 
+https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date#download-usage-in-azure-portal
+
+<b>How to review your individual Azure subscription bill</b>
+https://docs.microsoft.com/en-us/azure/cost-management-billing/understand/review-individual-bill 
+
+<b>KQL Queries to build pricing awareness</b>
 https://docs.microsoft.com/en-us/azure/azure-monitor/platform/manage-cost-storage#getting-nodes-as-billed-in-the-per-node-pricing-tier 
+
