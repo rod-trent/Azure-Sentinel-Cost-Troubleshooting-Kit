@@ -1,4 +1,4 @@
-//Which Security Events are generating the most data for a specific computer
+//Which Security Events are generating the most data for a specific computer. Replace <COMPUTERNAME> with the computer you want to investigate.
 
 SecurityEvent
 | where TimeGenerated > ago(7d)
